@@ -1,0 +1,11 @@
+.skills{
+    width: 100%;
+    text-align: start;
+    list-style-position: outside;
+}
+
+.skills li{
+    margin: 5px 20px;
+    color: #282828;
+
+}

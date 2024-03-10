@@ -1,0 +1,11 @@
+.profile{
+    width: 100%;
+    text-align: start;
+    list-style-position: outside;
+}
+
+.description li{
+    margin: 5px 20px;
+    color: #282828;
+
+}
